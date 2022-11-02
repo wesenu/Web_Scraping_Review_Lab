@@ -80,27 +80,3 @@ len(dataframe_list)
 print(dataframe_list[5])
 
 pd.read_html(url, match="10 most densely populated countries", flavor='bs4')[0]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
